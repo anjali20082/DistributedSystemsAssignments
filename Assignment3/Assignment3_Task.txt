@@ -1,0 +1,4 @@
+Please read about RabbitMQ and compare it with what you learned in the class and submit a four page report on "How RabbitMQ works". You have to describe all major components - messages, protocols, brokers, queues, queuemanagers, etc. For the report, use the format:
+
+The correct template for submission is: single-column Word Submission Template or single-column LaTeX (For an anonymous submission use \documentclass[manuscript,review,anonymous]{acmart}. For all others use \documentclass[manuscript,review]{acmart}).
+You can download the Word/LaTeX Primary Article templates and you can see some example papers using the TAPS-compatible Word and LaTeX templates.

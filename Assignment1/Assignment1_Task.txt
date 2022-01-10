@@ -1,0 +1,7 @@
+Task:
+1. To create a multi-threaded Server and client.
+2. The client and server will connect over TCP.
+
+3. The client should be able to send a string to the server as many times as it wants.
+4. The server will echo the string after appending it with the client's name.
+5. The server should be able to connect with multiple clients and communicate with them as in steps 3-4.

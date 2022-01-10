@@ -1,0 +1,9 @@
+Aim: the aim of the assignment is to make you aware of ZeroMQ library and develop an ability to be able to use it. Using ZeroMQ, you have to implement three networking patterns:
+
+
+1. Client Server
+2. Pub-sub
+3. Push-pull
+
+
+All implementations should be able to demonstrate the capabilities of the patter, e.g., for pub-sub, you can show that how subscribing to multiple work or how one can publish different material to different entities. You have to use your own imagination and develop multiple features under each pattern to fully demonstrate it. You may Imagine yourself as a teacher who is to teach these topics. The features developed and their demonstration will be used to decide the final marks. The code needs to be fully documented and developed with best practices.
